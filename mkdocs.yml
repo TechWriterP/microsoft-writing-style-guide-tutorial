@@ -1,4 +1,5 @@
 site_name: Microsoft Style Guide Tutorials
+site_url: https://techwriterp.github.io/msg-tutorial/
 nav:
   - Microsoft Style Guide Tutorials: index.md
   - Modules:
@@ -16,4 +17,6 @@ nav:
     - Module 12 - Putting it all together: module-12-putting-all-together.md
   - Workbooks:
     - Master workbook: workbook-all-modules-revised-structure.md
-theme: readthedocs
+theme: 
+  name: readthedocs
+  prev_next_buttons_location: 'both'
