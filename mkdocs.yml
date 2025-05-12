@@ -1,7 +1,7 @@
 site_name: Microsoft Writing Style Guide Tutorial
 site_url: https://techwriterp.github.io/msg-tutorial/
 nav:
-  - Microsoft Writing Style Guide Tutorials: index.md
+  - Microsoft Writing Style Guide Tutorial: index.md
   - Modules:
     - "Module 1: Introduction to Microsoft style": module-1-intro.md
     - "Module 2: Top 10 Microsoft style tips": module-2-tips.md
