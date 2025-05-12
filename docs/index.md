@@ -48,3 +48,12 @@ Each module includes a dedicated [workbook](workbook-all-modules-revised-structu
 
 This structure helps writers at all levels—from beginners to professionals—build strong habits and write with clarity, confidence, and inclusiveness.
 
+---
+
+## 📚 Reference
+
+This tutorial is based on the [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/), published by Microsoft.  
+The official guide provides comprehensive guidance on writing clear, concise, and user-friendly content for technical documentation and other digital experiences.
+
+For the most up-to-date and authoritative version, visit the  
+🔗 [Microsoft Learn: Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
