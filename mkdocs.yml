@@ -1,0 +1,19 @@
+site_name: Microsoft Style Guide Tutorials
+nav:
+  - Microsoft Style Guide Tutorials: index.md
+  - Modules:
+    - Module 1 - Introduction to Microsoft style: module-1-intro.md
+    - Module 2 - Top 10 Microsoft style tips: module-2-tips.md
+    - Module 3 - Grammar and parts of speech: module-3-grammar-pos.md
+    - Module 4 - Punctuation and capitalization: module-4-punctuation-capitalization.md
+    - Module 5 - Word choice and bias-free language: module-5-word-choice-bias-free-language.md
+    - Module 6 - Formatting procedures and UI instructions: module-6-format-ui-instructions.md
+    - Module 7 - Acronyms and abbreviations: module-7-acronyms-and-abbreviations.md
+    - Module 8 - Numbers, dates, and units: module-8-numbers-dates-units.md
+    - Module 9 - Keyboard & UI interactions: module-9-keyboard-and-ui-interactions.md
+    - Module 10 - Accessibility and inclusive content: module-10-accessibility-Inclusive-content.md
+    - Module 11 - A–Z word list and common terms: module-11-a-z-word-list.md
+    - Module 12 - Putting it all together: module-12-putting-all-together.md
+  - Workbooks:
+    - Master workbook: workbook-all-modules-revised-structure.md
+theme: readthedocs
