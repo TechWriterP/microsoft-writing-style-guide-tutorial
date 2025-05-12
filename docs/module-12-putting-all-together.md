@@ -131,4 +131,4 @@ You’ve been given this excerpt from a draft:
 
 ---
 
-✅ **Congratulations!** You’ve completed the **Master Microsoft Style Guide** course.
+✅ **Congratulations!** You’ve completed the **Master Microsoft Writing Style Guide** course.

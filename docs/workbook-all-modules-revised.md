@@ -1,4 +1,4 @@
-# Master Microsoft Style Guide Workbook
+# Master Microsoft Writing Style Guide Workbook
 ---
 
 ## Module 1: Introduction to Microsoft Style
@@ -10,7 +10,7 @@
 
 ---
 
-### ✍️ Section 1: What is the Microsoft Style Guide?
+### ✍️ Section 1: What is the Microsoft Writing Style Guide?
 
 **In your own words, describe what the Microsoft Writing Style Guide is and why it's important:**
 
@@ -1375,7 +1375,7 @@ Ready for Module 12: Putting It All Together? 🚀
 ---
 
 ### 🌟 Learning objectives:
-- Apply Microsoft Style Guide principles in real-world documentation scenarios.
+- Apply Microsoft Writing Style Guide principles in real-world documentation scenarios.
 - Recognize and fix common style violations.
 - Revise procedures, UI text, and headings to meet Microsoft standards.
 - Evaluate and reflect on your progress across all modules.
@@ -1470,5 +1470,5 @@ Disabled users cannot complete registration.
 
 **End of Module 12 Workbook**
 
-🎉 Congratulations on completing the Master Microsoft Style Guide Course! 🎉
+🎉 Congratulations on completing the Master Microsoft Writing Style Guide Course! 🎉
 

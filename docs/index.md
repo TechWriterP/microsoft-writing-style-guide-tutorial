@@ -1,4 +1,4 @@
-# Microsoft Style Guide Tutorial
+# Microsoft Writing Style Guide Tutorial
 
 Welcome! This tutorial site helps you master the Microsoft Writing Style Guide with structured, practical modules. Choose a module to begin.
 
